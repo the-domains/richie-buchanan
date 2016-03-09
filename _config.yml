@@ -1,0 +1,28 @@
+name: Richie Buchanan
+favicon: null
+layout_spectrum: 0.40308978501707315
+typography_spectrum: 0.6403116132132709
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.39771844539791346
+  lightness: 0.4434279554989189
+  saturation: 0.73204579600133
+  rhythmicContrast: 0.6979665611870587
+purpose: []
