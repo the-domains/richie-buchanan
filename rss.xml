@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Richie Buchanan]]></title>
         <description><![CDATA[Richie Buchanan]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/richie-buchanan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 22:49:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Mar 2016 23:57:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/richie-buchanan/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Top 4 Reasons Why Insurance Sales Producers Love their Job...]]></title>
             <description><![CDATA[<article><h1>Top 4 Reasons Why Insurance Sales Producers Love their Job...</h1><h2>...and why it might matter to you.</h2><p>The career of a commercial insurance producer (agent/broker) is a challenging, competitive, and rewarding life. Even with the flexibility, independence, and high income potential, most producers ended up in the insurance business by happenstance. How we got here may vary greatly, but why many of us stayed are similar.</p></article>]]></description>
-            <link>undefinedtop-4-reasons-why-insurance-sales-producers-love-their-job/index.html</link>
+            <link>https://thegrid.ai/richie-buchanan/top-4-reasons-why-insurance-sales-producers-love-their-job/index.html</link>
             <guid isPermaLink="false">9e6d26af-3dad-4467-8375-90557bd3eb77</guid>
-            <pubDate>Wed, 09 Mar 2016 22:48:13 GMT</pubDate>
+            <pubDate>Tue, 22 Mar 2016 23:57:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
