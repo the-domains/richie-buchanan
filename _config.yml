@@ -1,7 +1,7 @@
 name: Richie Buchanan
 favicon: null
 layout_spectrum: 0
-typography_spectrum: 0.24388
+typography_spectrum: 0.74266
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#52708c'
     - '#4e3a15'
     - '#839087'
-  brandStrength: 0.375
+  brandStrength: 0.5
   lightness: 0.5
   saturation: 0.0625
   rhythmicContrast: 0.75
